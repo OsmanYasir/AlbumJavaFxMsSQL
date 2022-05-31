@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mssql_jdbc_8_2_2_jre11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_22.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_22__2_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurdApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CurdApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CurdApp/META-INF/CurdApp.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CurdApp/sample/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CurdApp/sample/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CurdApp/sample/MyController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CurdApp/sample/SongsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/SongsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/mysql-connector-java-8.0.22.jar" beforeDir="false" />
-    </list>
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,8 +113,9 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/sqljdbc_8.2.2.0_enu/sqljdbc_8.2/enu/mssql-jdbc-8.2.2.jre11.jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.345977" />
@@ -140,6 +123,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\osman\Desktop\gitten\Album-Lists" />
       <recent name="C:\Users\Asel\Desktop\CurdApp\src\sample" />
       <recent name="C:\Users\Asel\Desktop\CurdApp\src" />
     </key>
@@ -306,6 +290,7 @@
       <workItem from="1604808884089" duration="1268000" />
       <workItem from="1604810214263" duration="1990000" />
       <workItem from="1654026282925" duration="3611000" />
+      <workItem from="1654031993609" duration="554000" />
     </task>
     <servers />
   </component>
