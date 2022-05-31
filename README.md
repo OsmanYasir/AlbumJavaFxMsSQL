@@ -19,9 +19,7 @@ A basic Gui to keep album names and properties of them. Created with **javafx**.
 - ***lib.sql :*** MsSQL Schema
 
 
-`Also jar file is used in order to connect mysql to java.`
-
-<img src="https://user-images.githubusercontent.com/64264345/98457614-64446a80-21b3-11eb-8255-b0e0b57324ca.jpg" width="300">
+`Also jar file is used in order to connect MsSQL to java.`
 
 > ### The Use Of Buttons
 
